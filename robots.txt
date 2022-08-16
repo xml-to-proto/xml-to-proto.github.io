@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xml-to-proto.github.io/sitemap.xml
